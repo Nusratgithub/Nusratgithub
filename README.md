@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Nusrat
-#### I am a professional web developer
-
-- 🔭 I’m currently working on this page. 
+                  # Hi there 👋, I'm Nusrat
+             #### I am a professional web developer
+ 
 - 🌱 I’m currently learning NextJS, Redux, Python 
 - 📫 How to reach me: nusrat17175@gmail.com 
 
