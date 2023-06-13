@@ -72,7 +72,7 @@ Hi there, It's me, Nusrat. I'm an expert with React Js, JavaScript, ES6, REST AP
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nwebpro&theme=react&hide_border=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nusratgithub&theme=react&hide_border=false) 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -83,4 +83,4 @@ Hi there, It's me, Nusrat. I'm an expert with React Js, JavaScript, ES6, REST AP
 
 ### Profile Visits
 
-![visitors](https://komarev.com/ghpvc/?username=nwebpro)
+![visitors](https://komarev.com/ghpvc/?username=Nusratgithub)
